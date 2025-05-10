@@ -42,11 +42,13 @@
 
 ## 🚀 访问本书 (Access the Book)
 
-您可以直接在本仓库中阅读或下载本书的Markdown和EPUB版本：
+您可以直接在本仓库中阅读或下载本书的多种格式版本：
 
 ➡️ **[阅读 Markdown 版本](./跨学科知识框架%20-%20Gemini%202.5%20Pro%20Preview%2005-06%20&%20123olp.md)**
 
 ➡️ **[下载 EPUB 版本](./跨学科知识框架%20-%20Gemini%202.5%20Pro%20Preview%2005-06%20&%20123olp.epub)**
+
+➡️ **[下载 PDF 版本](./跨学科知识框架%20-%20Gemini%202.5%20Pro%20Preview%2005-06%20&%20123olp.pdf)**
 
 ## 🤝 参与和反馈 (Contributing and Feedback)
 
